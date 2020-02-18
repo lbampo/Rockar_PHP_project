@@ -1,9 +1,16 @@
-Pre-instructions
+## Simple Magento Vagrant
 
-- Git clone this repo from GitHub to your localhost https://github.com/lbampo/Rockar_PHP_project.git
+A very simple Magento enviorment provisioner for Vagrant.
 
-- Go to the magento download site and download the open source version as a TAR file: https://magento.com/tech-resources/download
+## Getting Started
 
+### Prerequisites
+
+- Install [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
+- Install [Vagrant](https://www.vagrantup.com/)
+- Clone or download this repository of your project:https://github.com/LEGreen1984/magento-environment.git
+
+- Go to the [magento](https://magento.com/tech-resources/download) download site and download the open source version as a TAR file
 
 <img src='magento.png'>
 
@@ -13,11 +20,12 @@ Pre-instructions
 
 - Copy and paste the tar file into this folder. This is vital because the ‘synced folder’ route is hardcoded.
 
-Download and install: Vagrant & VirtualBox :
+- In your project directory, run vagrant up
 
-- ```vagrant up``` To create your VM
 
-- ```vagrant ssh``` Will give you access to a shell
+## Usage
+
+In your browser, head to 192.168.10.100/magento
 
 Creating Magento Database
 
