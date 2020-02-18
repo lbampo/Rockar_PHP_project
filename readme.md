@@ -2,7 +2,8 @@ Pre-instructions
 
 - Git clone this repo from GitHub to your localhost https://github.com/lbampo/Rockar_PHP_project.git
 
-- Go to the magento download site and download the open source version as a TAR file
+- Go to the magento download site and download the open source version as a TAR file: https://magento.com/tech-resources/download
+
 
 <img src='magento.png'>
 
@@ -14,9 +15,9 @@ Pre-instructions
 
 Download and install: Vagrant & VirtualBox :
 
-- <vagrant up> To create your VM
+- ```vagrant up``` To create your VM
 
-- <vagrant ssh> Will give you access to a shell
+- ```vagrant ssh``` Will give you access to a shell
 
 Creating Magento Database
 
