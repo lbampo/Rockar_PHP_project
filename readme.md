@@ -1,6 +1,6 @@
 Pre-instructions
 
-- Git clone this repo from GitHub to your localhost https://github.com/LEGreen1984/magento-environment.git
+- Git clone this repo from GitHub to your localhost https://github.com/lbampo/Rockar_PHP_project.git
 
 - Go to the magento download site and download the open source version as a TAR file
 
