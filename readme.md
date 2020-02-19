@@ -31,6 +31,11 @@ Creating Magento Database
 
 By now, all the packages required to support Magento 2 installation are ready. Next, we’ll create a blank database for Magento. To accomplish this, first, login to the MYSQL server:
 
+-----------------------------------------------------------------------------------------
+pre-requisites:
+ -> install mysql
+        $ sudo sudo apt-get install mysql-server -y
+
 1.	$ sudo mysql -u root -p
 
 You will be prompted for your MYSQL Server password. Enter the password and click Enter to continue.
