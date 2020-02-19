@@ -34,7 +34,8 @@ By now, all the packages required to support Magento 2 installation are ready. N
 -----------------------------------------------------------------------------------------
 pre-requisites:
  -> install mysql
-        $ sudo sudo apt-get install mysql-server -y
+ 
+        $  sudo apt-get install mysql-server -y
 
 1.	$ sudo mysql -u root -p
 
